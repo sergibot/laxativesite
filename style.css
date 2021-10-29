@@ -1,0 +1,41 @@
+@media (max-width: 767px) 
+{ 
+    body{
+        background-image: url("img/laxpic1.jpg");
+        background-repeat: repeat;
+    }
+
+    #bg-test{
+        width: 80%;
+        min-height: 45em;
+        margin: auto;
+        margin-top: 10px;
+
+        background-image: url("img/laxpic2.jpg");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+
+}
+
+
+@media (min-width: 768px) { 
+    body{
+        background-image: url("img/laxpic1.jpg");
+        background-repeat: repeat;
+    }
+
+    #bg-test{
+        width: 80%;
+        min-height: 65em;
+        margin: auto;
+        margin-top: 25px;
+
+        background-image: url("img/laxpic2.jpg");
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+} 
