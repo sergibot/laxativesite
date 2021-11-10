@@ -7,16 +7,17 @@
     }
 
     #bg-test{
-        width: 80%;
-        min-height: 45em;
+        width: 60%;
+        min-height: 35em;
         margin: auto;
         margin-top: 10px;
-
-        background-image: url("img/laxpic2.jpg");
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
     }
+
+        /* background-image: url("img/laxpic2.jpg"); */
+        /* background-size: contain; */
+        /* background-position: center; */
+        /* background-repeat: no-repeat; */
+    /* } */
 
 
 }
@@ -25,6 +26,7 @@
 @media (min-width: 768px) { 
     body{
         background-image: url("img/laxpic1.jpg");
+        background-size: 900px 900px;
         background-repeat: repeat;
     }
 
@@ -33,10 +35,11 @@
         min-height: 65em;
         margin: auto;
         margin-top: 25px;
-
-        background-image: url("img/laxpic2.jpg");
-        background-size: contain;
-        background-position: center;
-        background-repeat: no-repeat;
     }
+
+        /* background-image: url("img/laxpic2.jpg"); */
+        /* background-size: contain; */
+        /* background-position: center; */
+        /* background-repeat: no-repeat; */
+    /* } */
 } 
