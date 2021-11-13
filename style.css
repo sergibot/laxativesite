@@ -1,10 +1,10 @@
 @media (max-width: 767px) 
 { 
-    body{
-        background-image: url("img/laxpic1.jpg");
-        background-size: 300px 300px;
-        background-repeat: repeat;
-    }
+    /* body{ */
+        /* background-image: url("img/laxpic1.jpg"); */
+        /* background-size: 300px 300px; */
+        /* background-repeat: repeat; */
+    /* } */
 
     #desktop{
         visibility: hidden;
@@ -15,9 +15,8 @@
     }
 
     #phone{
-        margin-top: 0px;
-
-
+        /* margin-top: 0px; */
+        top:0px;
     }
         /* background-image: url("img/laxpic2.jpg"); */
         /* background-size: contain; */
