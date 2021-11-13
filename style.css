@@ -7,7 +7,7 @@
     /* } */
 
     #desktop{
-        visibility: hidden;
+        visibility: collapse;
         /* width: 60%; */
         /* min-height: 35em; */
         /* margin: auto; */
@@ -48,6 +48,6 @@
         /* background-repeat: no-repeat; */
     /* } */
     #phone{
-        visibility: hidden;
+        visibility: collapse;
     }
 } 
