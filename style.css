@@ -1,13 +1,13 @@
 @media (max-width: 767px) 
 { 
-    /* body{ */
-        /* background-image: url("img/laxpic1.jpg"); */
-        /* background-size: 300px 300px; */
-        /* background-repeat: repeat; */
-    /* } */
+    body{
+        background-image: url("img/laxpic1.jpg");
+        background-size: 300px 300px;
+        background-repeat: repeat;
+    }
 
     #desktop{
-        visibility: collapse;
+        display: none;
         /* width: 60%; */
         /* min-height: 35em; */
         /* margin: auto; */
@@ -48,6 +48,6 @@
         /* background-repeat: no-repeat; */
     /* } */
     #phone{
-        visibility: collapse;
+        display: none;
     }
 } 
