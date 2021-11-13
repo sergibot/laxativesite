@@ -6,13 +6,18 @@
         background-repeat: repeat;
     }
 
-    #bg-test{
-        width: 60%;
-        min-height: 35em;
-        margin: auto;
-        margin-top: 10px;
+    #desktop{
+        visibility: hidden;
+        /* width: 60%; */
+        /* min-height: 35em; */
+        /* margin: auto; */
+        /* margin-top: 10px; */
     }
 
+    #phone{
+
+
+    }
         /* background-image: url("img/laxpic2.jpg"); */
         /* background-size: contain; */
         /* background-position: center; */
@@ -30,7 +35,7 @@
         background-repeat: repeat;
     }
 
-    #bg-test{
+    #desktop{
         width: 80%;
         min-height: 65em;
         margin: auto;
@@ -42,4 +47,7 @@
         /* background-position: center; */
         /* background-repeat: no-repeat; */
     /* } */
+    #phone{
+        visibility: hidden;
+    }
 } 
