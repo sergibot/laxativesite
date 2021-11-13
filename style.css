@@ -19,7 +19,7 @@
         /* top:0px; */
     /* } */
 
-    
+
         /* background-image: url("img/laxpic2.jpg"); */
         /* background-size: contain; */
         /* background-position: center; */
@@ -35,6 +35,7 @@
         background-image: url("img/laxpic1.jpg");
         background-size: 900px 900px;
         background-repeat: repeat;
+        overflow: hidden;
     }
 
     #desktop{
